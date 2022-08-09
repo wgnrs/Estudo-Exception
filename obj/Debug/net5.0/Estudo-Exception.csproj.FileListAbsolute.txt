@@ -1,0 +1,16 @@
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.exe
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.deps.json
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.runtimeconfig.json
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.runtimeconfig.dev.json
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.dll
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\ref\Estudo-Exception.dll
+C:\Users\wagne\Projetos\Estudo-Exception\bin\Debug\net5.0\Estudo-Exception.pdb
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.csproj.AssemblyReference.cache
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.AssemblyInfoInputs.cache
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.AssemblyInfo.cs
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.dll
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\ref\Estudo-Exception.dll
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.pdb
+C:\Users\wagne\Projetos\Estudo-Exception\obj\Debug\net5.0\Estudo-Exception.genruntimeconfig.cache
